@@ -1,0 +1,23 @@
+{
+  "name": "socialite",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/missinglink/socialite.git"
+  },
+  "keywords": [
+    "social",
+    "post"
+  ],
+  "author": "Peter Johnson <insomnia@rcpt.at>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/missinglink/socialite/issues"
+  },
+  "homepage": "https://github.com/missinglink/socialite"
+}
